@@ -1,9 +1,4 @@
-# N8Natio7. [Sistema Financiero Colaborativo](#sistema-financiero-colaborativo)
-8. [Gobernanza Democrática](#gobernanza-democrática)
-9. [Perspectivas de Expertos](#perspectivas-de-expertos)
-10. [Consideraciones Técnicas y Legales](#consideraciones-técnicas-y-legales)
-11. [Plan de Implementación](#plan-de-implementación)
-12. [Visión a Largo Plazo](#visión-a-largo-plazo)an Maestro Estratégico
+# N8Nation: Plan Maestro Estratégico
 *Documento de Fuente Única de Verdad (Single Source of Truth)*
 
 ## Tabla de Contenidos
@@ -13,10 +8,11 @@
 4. [Modelo de Negocio Híbrido](#modelo-de-negocio-híbrido)
 5. [La Aplicación React como Eje Central](#la-aplicación-react-como-eje-central)
 6. [Sistema Financiero Colaborativo](#sistema-financiero-colaborativo)
-7. [Perspectivas de Expertos](#perspectivas-de-expertos)
-8. [Consideraciones Técnicas y Legales](#consideraciones-técnicas-y-legales)
-9. [Plan de Implementación](#plan-de-implementación)
-10. [Visión a Largo Plazo](#visión-a-largo-plazo)
+7. [Gobernanza Democrática](#gobernanza-democrática)
+8. [Perspectivas de Expertos](#perspectivas-de-expertos)
+9. [Consideraciones Técnicas y Legales](#consideraciones-técnicas-y-legales)
+10. [Plan de Implementación](#plan-de-implementación)
+11. [Visión a Largo Plazo](#visión-a-largo-plazo)
 
 ---
 
