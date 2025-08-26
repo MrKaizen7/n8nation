@@ -1,0 +1,122 @@
+# N8Nation - EditorConfig
+# Adaptado y mejorado para el proyecto N8Nation
+# https://editorconfig.org/
+
+root = true
+
+# ==========================================
+# DEFAULT SETTINGS
+# ==========================================
+[*]
+charset = utf-8
+indent_style = tab
+indent_size = 4
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+max_line_length = 100
+
+# ==========================================
+# MARKDOWN FILES
+# ==========================================
+[*.md]
+indent_style = space
+indent_size = 2
+trim_trailing_whitespace = false
+max_line_length = 120
+
+# ==========================================
+# YAML FILES
+# ==========================================
+[*.{yml,yaml}]
+indent_style = space
+indent_size = 2
+max_line_length = 120
+
+# ==========================================
+# JSON FILES
+# ==========================================
+[*.json]
+indent_style = space
+indent_size = 2
+
+# ==========================================
+# PYTHON FILES
+# ==========================================
+[*.py]
+indent_style = space
+indent_size = 4
+max_line_length = 88  # Black formatter standard
+
+# ==========================================
+# JAVASCRIPT/TYPESCRIPT
+# ==========================================
+[*.{js,ts,jsx,tsx}]
+indent_style = space
+indent_size = 2
+quote_type = single
+
+# ==========================================
+# CSS/SCSS
+# ==========================================
+[*.{css,scss,sass}]
+indent_style = space
+indent_size = 2
+
+# ==========================================
+# HTML TEMPLATES
+# ==========================================
+[*.{html,htm,j2,jinja2}]
+indent_style = space
+indent_size = 2
+
+# ==========================================
+# CONFIGURATION FILES
+# ==========================================
+[.{babelrc,eslintrc,prettierrc,stylelintrc}]
+indent_style = space
+indent_size = 2
+
+[package.json]
+indent_style = space
+indent_size = 2
+
+[Dockerfile*]
+indent_style = tab
+indent_size = 4
+
+[docker-compose*.yml]
+indent_style = space
+indent_size = 2
+
+# ==========================================
+# SHELL SCRIPTS
+# ==========================================
+[*.{sh,bash}]
+indent_style = tab
+indent_size = 4
+
+[*.bat]
+end_of_line = crlf
+indent_style = space
+indent_size = 2
+
+# ==========================================
+# N8N WORKFLOW FILES
+# ==========================================
+[*.json]
+# n8n workflows
+indent_style = space
+indent_size = 2
+max_line_length = 200
+
+# ==========================================
+# DOCUMENTATION SPECIFIC
+# ==========================================
+[mkdocs.yml]
+indent_style = space
+indent_size = 2
+
+[nav.yml]
+indent_style = space
+indent_size = 2
