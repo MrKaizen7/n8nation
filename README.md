@@ -16,9 +16,9 @@ Antes de empezar, asegúrate de tener lo siguiente instalado:
 
 Empezando
 1. Clona el Repositorio
-Clona este repositorio en tu máquina local:
+Clona o descarga este repositorio en tu máquina local:
 
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/MrKaizen7/n8n_local_docker_ngrok.git
 cd tu_repositorio
 
 2. Configura Tus Archivos
