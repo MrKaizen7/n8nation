@@ -66,5 +66,7 @@ Para actualizar n8n a la última versión disponible, sigue las instrucciones de
 ¡Únete a nuestra comunidad para hacer preguntas, compartir tus flujos de trabajo y conectar con otros usuarios de n8n! Esta comunidad es principalmente para usuarios de habla hispana.
 
 **Canal de Telegram:** https://t.me/n8nation  
-**Grupo de Telegram:** https://t.me/n8nation_chat  
+**Grupo de Telegram:** https://t.me/n8nation_chat
+reddit r/n8nation_
+coreo: steventheortiz@gmail.com  
 **¿Quieres colaborar?** Ver [PROPOSAL.md](PROPOSAL.md) para oportunidades de negocio colaborativo

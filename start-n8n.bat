@@ -17,6 +17,7 @@ echo.
 echo ➡️ Need help or want to connect with the community?
 echo ➡️ Join our Telegram Channel: https://t.me/n8nation
 echo ➡️ Join our Telegram Group: https://t.me/n8nation_chat
+echo ➡️ Reddit: https://reddit.com/r/n8nation_
 echo ➡️ Check out the repository: https://github.com/MrKaizen7/n8n_local_docker_ngrok
 echo ➡️ Join N8Nation: See PROPOSAL.md for collaboration opportunities
 echo.

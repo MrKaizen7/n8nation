@@ -209,7 +209,8 @@ Pero necesitamos actuar ahora, mientras la oportunidad está abierta.
 
 **Contacto directo:**  
 📧 Email: [Pendiente]  
-💬 Telegram: [@n8nation_chat](https://t.me/n8nation_chat)  
+💬 Telegram: [@n8nation_chat](https://t.me/n8nation_chat)
+reddit r/n8nation_  
 🔗 GitHub: [Este repositorio](https://github.com/MrKaizen7/n8n_local_docker_ngrok)
 
 ---

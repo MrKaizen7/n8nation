@@ -188,8 +188,8 @@ En lugar de "vender un JSON", vender **servicio integral:**
 **Ventaja competitiva:** Herramienta única que acelera el desarrollo
 
 ### Integraciones de Pago
-**Para colaboradores:** Airtm, PayPal, transferencias locales
-**Para clientes:** Stripe, PayPal, métodos locales
+**Para colaboradores:** Airtm, transferencias locales
+**Para clientes:** Stripe, métodos locales, crypto, airtm
 
 ---
 
