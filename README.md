@@ -11,9 +11,8 @@ Entorno Limpio: Todo se ejecuta dentro de un contenedor de Docker, manteniendo e
 Requisitos Previos
 Antes de empezar, asegúrate de tener lo siguiente instalado:
 
-Docker
-
-Ngrok
+- **Docker** (debe estar abierto/ejecutándose antes de ejecutar el script)
+- **Ngrok** (coloca el archivo `ngrok.exe` en la misma carpeta que `start-n8n.bat`)
 
 Empezando
 1. Clona el Repositorio
@@ -32,7 +31,7 @@ tu_correo@ejemplo.com
 
 tu_password
 
-tu_licencia_key
+tu_license_key
 
 https://tu-dominio-fijo.ngrok-free.app/
 
@@ -48,9 +47,23 @@ start-n8n.bat
 
 Esto iniciará automáticamente tu contenedor de Docker de n8n, creará el túnel de Ngrok y abrirá tu instancia de n8n en tu navegador web predeterminado.
 
+## Archivos Importantes
+
+- **`start-n8n.bat`**: Script principal que inicia n8n y el túnel de Ngrok. Ejecuta este archivo después de configurar tus datos.
+- **`docker-compose.yml`**: Configuración de Docker para el contenedor de n8n.
+- **`updaten8ncomposer.txt`**: Guía paso a paso para actualizar la imagen de n8n en Docker. Úsalo cuando quieras asegurarte de tener la última versión de n8n en tu contenedor.
+
+## Actualizar N8N
+
+Para actualizar n8n a la última versión disponible, sigue las instrucciones del archivo `updaten8ncomposer.txt`:
+
+1. Navega al directorio que contiene tu archivo docker-compose
+2. Ejecuta `docker compose pull` para descargar la última versión
+3. Ejecuta `docker compose down` para detener y eliminar la versión anterior
+4. Ejecuta `docker compose up -d` para iniciar el contenedor actualizado
+
 Comunidad
 ¡Únete a nuestra comunidad para hacer preguntas, compartir tus flujos de trabajo y conectar con otros usuarios de n8n! Esta comunidad es principalmente para usuarios de habla hispana.
 
-Canal de Telegram: https://t.me/tu_canal_de_telegram
-
-Grupo de Telegram: https://t.me/tu_grupo_de_telegram
+Canal de Telegram: https://t.me/n8nation
+Grupo de Telegram: https://t.me/n8nation_chat
