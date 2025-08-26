@@ -62,8 +62,9 @@ Para actualizar n8n a la última versión disponible, sigue las instrucciones de
 3. Ejecuta `docker compose down` para detener y eliminar la versión anterior
 4. Ejecuta `docker compose up -d` para iniciar el contenedor actualizado
 
-Comunidad
+## Comunidad
 ¡Únete a nuestra comunidad para hacer preguntas, compartir tus flujos de trabajo y conectar con otros usuarios de n8n! Esta comunidad es principalmente para usuarios de habla hispana.
 
-Canal de Telegram: https://t.me/n8nation
-Grupo de Telegram: https://t.me/n8nation_chat
+**Canal de Telegram:** https://t.me/n8nation  
+**Grupo de Telegram:** https://t.me/n8nation_chat  
+**¿Quieres colaborar?** Ver [PROPOSAL.md](PROPOSAL.md) para oportunidades de negocio colaborativo

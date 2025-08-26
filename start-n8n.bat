@@ -15,8 +15,9 @@ start *https://tu-dominio-fijo.ngrok-free.app*
 echo ✅ All done. You can close this window or leave it open to monitor.
 echo.
 echo ➡️ Need help or want to connect with the community?
-echo ➡️ Join our Telegram Channel: https://t.me/tu_canal_de_telegram
-echo ➡️ Join our Telegram Group: https://t.me/tu_grupo_de_telegram
-echo ➡️ Check out the repository for more info: https://github.com/tu_usuario/tu_repositorio
+echo ➡️ Join our Telegram Channel: https://t.me/n8nation
+echo ➡️ Join our Telegram Group: https://t.me/n8nation_chat
+echo ➡️ Check out the repository: https://github.com/MrKaizen7/n8n_local_docker_ngrok
+echo ➡️ Join N8Nation: See PROPOSAL.md for collaboration opportunities
 echo.
 pause

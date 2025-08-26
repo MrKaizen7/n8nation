@@ -46,23 +46,18 @@
 - **Star Goals:** Celebraciones comunitarias por hitos
 - **Contributor Spotlight:** Reconocimiento mensual
 
-### Telegram: El Corazón Social (Español)
+### Telegram: Comunidad Hispana Íntima
 
-#### Canal: @n8n_solutions
-**Propósito:** Broadcast unidireccional de contenido curado
-
-**Content Calendar:**
-- **Lunes:** Tutorial de la semana
-- **Miércoles:** Workflow destacado de la comunidad  
-- **Viernes:** Tips y trucos rápidos
-- **Domingo:** Reflexiones sobre automatización
+#### Canal: @n8nation
+**Función:** Broadcasting de contenido curado  
+**Contenido:**
 
 **Métricas objetivo:**
 - Año 1: 500+ suscriptores
 - Año 2: 2,000+ suscriptores
 - Engagement rate: >5%
 
-#### Grupo: @n8n_discussion  
+#### Grupo: @n8nation_chat  
 **Propósito:** Discusión interactiva y soporte mutuo
 
 **Estructura del grupo:**

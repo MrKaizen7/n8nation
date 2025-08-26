@@ -81,8 +81,8 @@ echo.
 echo ✅ All done. You can close this window or leave it open to monitor.
 echo.
 echo ➡️ Need help or want to connect with the community?
-echo ➡️ Join our Telegram Channel: https://t.me/n8n_solutions
-echo ➡️ Join our Telegram Group: https://t.me/n8n_discussion  
+echo ➡️ Join our Telegram Channel: https://t.me/n8nation
+echo ➡️ Join our Telegram Group: https://t.me/n8nation_chat  
 echo ➡️ Check out the repository: https://github.com/MrKaizen7/n8n_local_docker_ngrok
 echo.
 pause
