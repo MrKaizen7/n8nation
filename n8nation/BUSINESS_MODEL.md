@@ -280,7 +280,7 @@ Participación en eventos:          10 puntos
 
 ### Riesgo: Competencia
 **Mitigación:**
-- Foco en nicho hispanohablante
+- Foco en nicho en español
 - Diferenciación por modelo colaborativo
 - Innovation constante (IA/RAG)
 

@@ -46,7 +46,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 ### Community Foundation
 - Estructura de repositorio público
 - Base para comunidad en Telegram
-- Enfoque en mercado hispanohablante
+- Enfoque en mercado en español
 
 ---
 

@@ -568,7 +568,7 @@ Peso de Voto = (Puntos Últimos 12 Meses × 0.7) + (Puntos Históricos × 0.3)
 - **50+ colaboradores especializados**
 - **Biblioteca de 1000+ workflows**
 - **Universidad N8Nation** con certificaciones reconocidas
-- **Presencia en 5+ países hispanohablantes**
+- **Presencia en 5+ países de habla española**
 - **$500K+ ingresos anuales**
 
 ### Año 5: Liderazgo Global
@@ -579,7 +579,7 @@ Peso de Voto = (Puntos Últimos 12 Meses × 0.7) + (Puntos Históricos × 0.3)
 - **$5M+ valoración de empresa**
 
 ### Visión de Impacto
-> **"Democratizar la automatización en el mundo hispanohablante, creando oportunidades económicas para cientos de profesionales mientras ayudamos a miles de empresas a optimizar sus procesos."**
+> **"Democratizar la automatización en el mundo de habla española, creando oportunidades económicas para cientos de profesionales mientras ayudamos a miles de empresas a optimizar sus procesos."**
 
 ---
 
@@ -596,7 +596,7 @@ N8Nation representa más que un negocio: es un **movimiento hacia la colaboraci�
 - Diferenciación tecnológica clara ✅
 - Plan de implementación detallado ✅
 
-**El siguiente paso es la ejecución.** Con esta documentación como guía, N8Nation tiene todo lo necesario para convertirse en el ecosistema de automatización colaborativa más importante del mundo hispanohablante.
+**El siguiente paso es la ejecución.** Con esta documentación como guía, N8Nation tiene todo lo necesario para convertirse en el ecosistema de automatización colaborativa más importante del mundo de habla española.
 
 ---
 

@@ -95,7 +95,7 @@ Proyecto: $1,000 de ganancia | 1,250 puntos totales
 - A) 100 (básico) | B) 150 (+documentación) | C) 200 (+mejoras) | D) Variable
 - **Resultado:** La comunidad vota B con 67% → Se implementa
 
-**Detalles completos** en [N8NATION_MASTER_PLAN.md](github.com/MrKaizen7/n8nation/N8NATION_MASTER_PLAN.md#gobernanza-democrática)
+**Detalles completos** en [N8NATION_MASTER_PLAN.md](./N8NATION_MASTER_PLAN.md#gobernanza-democrática)
 
 ---
 
