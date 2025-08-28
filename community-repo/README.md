@@ -1,3 +1,3 @@
 # Community Repository
 
-This repository contains community-contributed resources and examples for the N8Nation project, licensed under the MIT License.
+This repository will become a sub-module and contain community-contributed resources and examples for the n8nation project, licensed under the MIT License.
