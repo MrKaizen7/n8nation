@@ -1,7 +1,7 @@
 ---
 description: Review code for symbiotic development patterns and best practices.
-mode: code-review
-reference: instructions/symbiotic_development.instructions.md
+mode: agent
+
 ---
 
 Review the code for:
@@ -9,3 +9,5 @@ Review the code for:
 - Collaboration between human and AI contributors
 - Documentation of architectural decisions
 - Adherence to symbiotic development standards
+
+reference: instructions/symbiotic_development.instructions.md

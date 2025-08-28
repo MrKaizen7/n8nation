@@ -1,7 +1,7 @@
 ---
 description: Generate a new n8n workflow with multilingual support and context-aware nodes.
-mode: code-generation
-reference: instructions/python.instructions.md, instructions/integration.instructions.md
+mode: agent
+
 ---
 
 Generate an n8n workflow that:
@@ -10,3 +10,5 @@ Generate an n8n workflow that:
 - Includes docstrings and comments for each step
 - Follows project conventions for node configuration and error handling
 - Tags workflow type and language in metadata
+
+reference: instructions/python.instructions.md, instructions/integration.instructions.md

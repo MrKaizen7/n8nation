@@ -1,7 +1,7 @@
 ---
 description: Generate an intelligent, context-aware component for n8n AI Copilot.
-mode: code-generation
-reference: instructions/typescript.instructions.md, instructions/symbiotic_development.instructions.md
+mode: agent
+
 ---
 
 Generate a component that:
@@ -9,3 +9,5 @@ Generate a component that:
 - Supports multilingual configuration
 - Documents all logic and integration points
 - Follows symbiotic development patterns
+
+reference: instructions/typescript.instructions.md, instructions/symbiotic_development.instructions.md
