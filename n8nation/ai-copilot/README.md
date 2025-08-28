@@ -1,4 +1,4 @@
-# N8Nation Enhanced AI Copilot
+# n8nation Enhanced AI Copilot
 
 ## 🚀 Overview
 
@@ -19,12 +19,12 @@ The n8nation Enhanced AI Copilot is a sophisticated multilingual AI assistant sp
 
 ```
 Enhanced AI Copilot System
-├── 🤖 enhanced_copilot.py        # Main conversational AI with memory
+├── 🤖 ai-copilot/enhanced_copilot.py        # Main conversational AI with memory
 ├── 📊 ai-copilot/embed_and_store.py         # Multilingual embedding generation
-├── 📄 process_docs.py            # Advanced document processing
-├── 🔧 config.py                  # Centralized configuration management
+├── 📄 ai-copilot/process_docs.py            # Advanced document processing
+├── 🔧 ai-copilot/config.py                  # Centralized configuration management
 ├── 🎮 ai-copilot/demo_copilot.py           # Complete system demonstration
-└── 🔗 update_webhook.py         # Automated knowledge updates
+└── 🔗 ai-copilot/update_webhook.py         # Automated knowledge updates
 ```
 
 ### Technical Stack

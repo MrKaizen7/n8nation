@@ -46,6 +46,6 @@ Defines robust, actionable standards for Python code in n8n AI Copilot. Ensures 
 - Maintain a professional, clear, and welcoming tone.
 
 ## References
-- [n8nation/docs/ai-copilot/README.md](../../n8nation/docs/ai-copilot/README.md)
+- [n8nation/ai-copilot/README.md](../../n8nation/ai-copilot/README.md)
 - [integration.instructions.md](./integration.instructions.md)
 - [CONTRIBUTING.md](../CONTRIBUTING.md)

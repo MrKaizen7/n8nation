@@ -34,6 +34,6 @@ Defines integration standards and best practices for n8n AI Copilot, ensuring ro
 - Maintain a professional, clear, and collaborative tone.
 
 ## References
-- [README.md](../../n8nation/docs/ai-copilot/README.md)
-- [config.py](../../n8nation/docs/ai-copilot/config.py)
-- [TECHNICAL_SPECS.md](../../n8nation/TECHNICAL_SPECS.md)
+- [README.md](../../n8nation/ai-copilot/README.md)
+- [config.py](../../n8nation/ai-copilot/config.py)
+- [TECHNICAL_SPECS.md](../../n8nation/docs/TECHNICAL_SPECS.md)

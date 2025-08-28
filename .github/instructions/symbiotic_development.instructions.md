@@ -30,4 +30,4 @@ Defines patterns for collaborative, modular, and reusable development between hu
 
 ## References
 - [generate-intelligent-component.prompt.md](../prompts/generate-intelligent-component.prompt.md)
-- [README.md](../../n8nation/docs/ai-copilot/README.md)
+- [README.md](../../n8nation/ai-copilot/README.md)
