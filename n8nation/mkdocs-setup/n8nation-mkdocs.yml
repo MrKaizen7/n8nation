@@ -1,0 +1,387 @@
+# N8Nation MkDocs Configuration
+# Adaptado y mejorado del repositorio n8n-docs-review para N8Nation
+
+site_name: N8Nation - Automatización Colaborativa
+site_url: https://n8nation.github.io/
+site_description: Plataforma colaborativa para automatización con n8n, AI Copilot y comunidad en español.
+repo_url: https://github.com/MrKaizen7/n8n_local_docker_ngrok
+repo_name: MrKaizen7/n8n_local_docker_ngrok
+edit_uri: edit/main/n8nation/
+
+# N8Nation - Configuración de validación
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+    absolute_links: warn
+  links:
+    not_found: warn
+    anchors: warn
+    absolute_links: relative_to_docs
+    unrecognized_links: warn
+
+# N8Nation - Tema Material personalizado
+theme:
+  name: material
+  custom_dir: _overrides
+  favicon: _assets/n8nation-favicon.ico
+  font: false
+  language: es  # Idioma principal español
+  logo: _assets/n8nation-logo.svg
+  palette:
+    # Esquema claro
+    - scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a tema oscuro
+    # Esquema oscuro
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a tema claro
+  features:
+    # Barra de anuncios dismissible
+    - announce.dismiss
+    # Botón de editar código
+    - content.action.edit
+    # Anotaciones en código
+    - content.code.annotate
+    # Botón copiar código
+    - content.code.copy
+    # Tabs enlazados
+    - content.tabs.link
+    # Tooltips mejorados
+    - content.tooltips
+    # Footer de navegación
+    - navigation.footer
+    # Páginas índice de sección
+    - navigation.indexes
+    # Path de navegación
+    - navigation.path
+    # Secciones de navegación
+    - navigation.sections
+    # Pestañas de navegación
+    - navigation.tabs
+    # Botón volver arriba
+    - navigation.top
+    # Seguimiento de anchor
+    - navigation.tracking
+    # Búsqueda destacada
+    - search.highlight
+    # Compartir búsqueda
+    - search.share
+    # Sugerencias de búsqueda
+    - search.suggest
+
+# N8Nation - Configuración extra
+extra:
+  # Analytics para N8Nation
+  analytics:
+    provider: google
+    property: G-XXXXXXXXX  # Reemplazar con ID real
+  
+  # Estado de páginas
+  status:
+    beta: Esta función está en beta
+    experimental: Función experimental
+    deprecated: Deprecado
+  
+  # Social links específicos de N8Nation
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MrKaizen7/n8n_local_docker_ngrok
+      name: Repositorio GitHub
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/n8nation
+      name: Canal Telegram
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/n8nation_chat
+      name: Chat Telegram
+    - icon: fontawesome/solid/envelope
+      link: mailto:contact@n8nation.com
+      name: Contacto
+  
+  # Configuración específica de N8Nation
+  n8nation_extra:
+    feedback:
+      question: ¿Esta página fue útil?
+      positive_button_text: Útil
+      negative_button_text: Necesita mejoras
+      comment_input_placeholder: Esta página necesita...
+      comment_input_hint: Leemos todos los comentarios personalmente
+      thankyou_message: ¡Gracias por tu feedback!
+    
+    # Información del proyecto
+    project:
+      version: "1.0.0"
+      stage: "Beta"
+      community: "https://t.me/n8nation_chat"
+      docs_repo: "https://github.com/MrKaizen7/n8n_local_docker_ngrok"
+
+# N8Nation - CSS personalizado
+extra_css:
+  - _assets/css/n8nation-theme.css
+  - _assets/css/ai-copilot-styles.css
+  - _assets/css/workflow-showcase.css
+  - _assets/css/community-widgets.css
+  - _assets/css/feedback-system.css
+
+# N8Nation - JavaScript personalizado
+extra_javascript:
+  - _assets/js/n8nation-feedback.js
+  - _assets/js/community-integration.js
+  - _assets/js/copilot-widget.js
+  - _assets/js/analytics.js
+
+# Archivos a observar para rebuild automático
+watch:
+  - _snippets
+  - _overrides
+  - _assets
+  - ../  # Documentos del proyecto
+
+# N8Nation - Extensiones Markdown
+markdown_extensions:
+  # Abreviaciones para tooltips
+  - abbr
+  # Listas de atributos (requerido)
+  - attr_list
+  # Definiciones para glosario
+  - def_list
+  # Notas al pie
+  - footnotes
+  # Markdown dentro HTML
+  - md_in_html
+  # Metadatos de página
+  - meta
+  
+  # PyMdown Extensions mejoradas
+  - pymdownx.blocks.admonition:
+      types:
+        - note
+        - info
+        - tip
+        - question
+        - warning
+        - danger
+        - example
+        - quote
+        # N8Nation custom types
+        - workflow
+        - copilot
+        - community
+  
+  # Detalles colapsables
+  - pymdownx.details
+  
+  # Emojis y iconos
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - _assets/icons
+  
+  # Highlighting de código
+  - pymdownx.highlight:
+      linenums: true
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  
+  # Inline code highlighting
+  - pymdownx.inlinehilite
+  
+  # Teclas de keyboard
+  - pymdownx.keys
+  
+  # Snippets reutilizables
+  - pymdownx.snippets:
+      auto_append:
+        - _glossary/n8nation-terms.md
+        - _glossary/n8n-terms.md
+      base_path:
+        - _snippets
+  
+  # Superfences para código y diagramas
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        # N8Nation custom fences
+        - name: n8n-workflow
+          class: n8n-workflow
+          format: !!python/name:n8nation.formatters.workflow_formatter
+        - name: copilot-demo
+          class: copilot-demo
+          format: !!python/name:n8nation.formatters.copilot_formatter
+      preserve_tabs: true
+  
+  # Task lists con checkboxes
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  
+  # Tabs contenido
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  
+  # Listas saneadas
+  - sane_lists
+  
+  # Tablas
+  - tables
+  
+  # Table of contents
+  - toc:
+      permalink: "#"
+      title: "En esta página"
+
+# N8Nation - Plugins
+plugins:
+  # Búsqueda multiidioma
+  - search:
+      lang: 
+        - es
+        - en
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  
+  # Exclusión de archivos
+  - exclude:
+      glob:
+        - "*.tmp"
+        - "**/draft-*"
+  
+  # Galería de imágenes mejorada
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: auto
+      height: auto
+      zoomable: true
+      draggable: true
+      auto_caption: true
+      caption_position: bottom
+      background: rgba(0, 0, 0, 0.8)
+  
+  # Sistema de macros para N8Nation
+  - macros:
+      include_yaml:
+        - _data/n8nation-config.yml
+        - _data/workflow-examples.yml
+        - _data/community-stats.yml
+      j2_block_start_string: "[[%"
+      j2_block_end_string: "%]]"
+      j2_variable_start_string: "[["
+      j2_variable_end_string: "]]"
+      module_name: n8nation.macros
+  
+  # Sistema de tags mejorado
+  - tags:
+      enabled: true
+      tags_file: tags.md
+  
+  # Privacy y links externos
+  - privacy:
+      assets: false
+      links: true
+      links_attr_map:
+        target: _blank
+        rel: external noopener
+  
+  # Git revision date
+  - git-revision-date-localized:
+      type: date
+      locale: es
+      fallback_to_build_date: true
+  
+  # Minificación para producción
+  - minify:
+      minify_html: true
+      minify_css: true
+      minify_js: true
+      htmlmin_opts:
+        remove_comments: true
+        remove_empty_space: true
+      cache_safe: true
+  
+  # N8Nation - Plugin para generar contenido para LLMs
+  - llmstxt:
+      markdown_description: |
+        Documentación de N8Nation, plataforma colaborativa para automatización con n8n.
+        Incluye guías técnicas, tutoriales, documentación del AI Copilot, y recursos comunitarios.
+        Contenido principal en español con soporte multiidioma.
+      full_output: llms-full.txt
+      sections:
+        "Documentación Principal":
+          - "*.md"
+        "AI Copilot":
+          - "ai-copilot/*.md"
+        "Guías y Tutoriales":
+          - "guides/*.md"
+        "Recursos Comunitarios":
+          - "community/*.md"
+
+# N8Nation - Navegación personalizada
+nav:
+  - 🏠 Inicio: index.md
+  - 🚀 Comenzar:
+    - getting-started/index.md
+    - Instalación Rápida: getting-started/quick-install.md
+    - Primera Configuración: getting-started/first-setup.md
+    - Tu Primer Workflow: getting-started/first-workflow.md
+  
+  - 📚 Documentación:
+    - Plan Maestro: N8NATION_MASTER_PLAN.md
+    - Modelo de Negocio: BUSINESS_MODEL.md
+    - Estrategia Comunitaria: COMMUNITY_STRATEGY.md
+    - Especificaciones Técnicas: TECHNICAL_SPECS.md
+    - Funcionalidades App: APP_FEATURES.md
+    - Aspectos Legales: LEGAL_COMPLIANCE.md
+  
+  - 🤖 AI Copilot:
+    - docs/ai-copilot/index.md
+    - Guía de Uso: docs/ai-copilot/README.md
+    - Configuración: docs/ai-copilot/setup.md
+    - Ejemplos Prácticos: docs/ai-copilot/examples.md
+    - API Reference: docs/ai-copilot/api.md
+  
+  - 🛠️ Guías Técnicas:
+    - guides/index.md
+    - Docker y n8n: guides/docker-setup.md
+    - Workflows Avanzados: guides/advanced-workflows.md
+    - Integraciones API: guides/api-integrations.md
+    - Webhooks y Triggers: guides/webhooks.md
+  
+  - 🌍 Comunidad:
+    - community/index.md
+    - Cómo Contribuir: CONTRIBUTING.md
+    - Casos de Uso: community/use-cases.md
+    - Showcases: community/showcases.md
+    - FAQ: community/faq.md
+  
+  - 📖 Historia:
+    - docs/evolution/README.md
+    - Evolución del Proyecto: docs/evolution/
+  
+  - 📋 Recursos:
+    - resources/index.md
+    - Templates: docs/templates/
+    - Changelog: CHANGELOG.md
+    - Roadmap: TODO.md
+    - Licencias: LICENSE.md
+
+# N8Nation - Configuración de copyright
+copyright: |
+  Copyright &copy; 2025 N8Nation Community - Licencia MIT<br>
+  Hecho con ❤️ para la comunidad de automatización en español

@@ -1,0 +1,11 @@
+# Navega al directorio que contiene tu archivo docker-compose
+C:\ruta\a\tu\carpeta\
+
+# Descarga la última versión
+docker compose pull
+
+# Detiene y elimina la versión anterior
+docker compose down
+
+# Inicia el contenedor
+docker compose up -d

@@ -1,0 +1,192 @@
+# N8Nation - .gitignore
+# Adaptado y mejorado para el proyecto N8Nation
+
+# ==========================================
+# PYTHON
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==========================================
+# VIRTUAL ENVIRONMENTS
+# ==========================================
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.env
+
+# ==========================================
+# MKDOCS
+# ==========================================
+# MkDocs build output
+site/
+.mkdocs_build/
+
+# MkDocs temporary files
+.tmp/
+tmp/
+
+# ==========================================
+# AI COPILOT
+# ==========================================
+# ChromaDB vector database
+**/n8n_chroma_db/
+**/chroma_db/
+**/.chroma/
+
+# Knowledge base temporary files
+processed_docs.json
+knowledge_updates.log
+*.log
+
+# AI model cache
+.cache/
+.model_cache/
+
+# ==========================================
+# NODE.JS (para futuros desarrollos)
+# ==========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+package-lock.json
+.npm
+
+# ==========================================
+# SYSTEM FILES
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# EDITORS
+# ==========================================
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# ENVIRONMENT VARIABLES
+# ==========================================
+.env
+.env.local
+.env.development
+.env.testing
+.env.production
+
+# API keys y secretos
+**/secrets/
+**/private/
+**/*secret*
+**/*key*
+!**/*key*.example
+!**/*key*.template
+
+# ==========================================
+# DOCKER
+# ==========================================
+# Docker volumes
+volumes/
+
+# Docker Compose override
+docker-compose.override.yml
+
+# ==========================================
+# N8NATION SPECIFIC
+# ==========================================
+# Documentación temporal/draft
+**/draft-*
+**/*.draft
+**/*.tmp
+
+# Backup files
+*.backup
+*.bak
+*.orig
+
+# Deployment artifacts
+deployment/
+release/
+
+# User-specific configurations
+config.local.yml
+settings.local.json
+
+# ==========================================
+# ANALYTICS Y LOGS
+# ==========================================
+analytics/
+logs/
+*.log
+access.log
+error.log
+
+# ==========================================
+# TESTING
+# ==========================================
+.coverage
+.pytest_cache/
+.tox/
+htmlcov/
+coverage.xml
+
+# ==========================================
+# ASSETS TEMPORALES
+# ==========================================
+# Imágenes generadas automáticamente
+**/generated/
+**/auto-generated/
+
+# Screenshots de testing
+**/screenshots/
+**/test-output/
+
+# ==========================================
+# PRODUCTION BUILDS
+# ==========================================
+# Compressed assets
+*.zip
+*.tar.gz
+*.rar
+
+# Production configs (mantener templates)
+prod.yml
+production.yml
+!prod.yml.example
+!production.yml.template
