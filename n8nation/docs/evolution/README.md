@@ -25,7 +25,7 @@ Plantillas reutilizables para procesos del negocio.
 
 ## 🎯 Propósito de esta Historia
 
-**Para nuevos colaboradores:** Entender cómo evolucionó N8Nation de una herramienta técnica simple a un ecosistema de negocio complejo.
+**Para nuevos colaboradores:** Entender cómo evolucionó n8nation de una herramienta técnica simple a un ecosistema de negocio complejo.
 
 **Para Steven:** Referencia histórica de decisiones importantes y razonamiento detrás de cada estrategia.
 

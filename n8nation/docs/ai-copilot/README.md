@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-The N8Nation Enhanced AI Copilot is a sophisticated multilingual AI assistant specifically designed for n8n workflow automation. It combines advanced vector search, intelligent conversation memory, and seamless multilingual support to provide expert guidance on n8n workflows, node configurations, and automation best practices.
+The n8nation Enhanced AI Copilot is a sophisticated multilingual AI assistant specifically designed for n8n workflow automation. It combines advanced vector search, intelligent conversation memory, and seamless multilingual support to provide expert guidance on n8n workflows, node configurations, and automation best practices.
 
 ### ✨ Key Features
 
@@ -365,7 +365,7 @@ const N8NationCopilot = {
 };
 ```
 
-### Discord Bot Integration
+### Discord Bot Integration //pending
 
 ```python
 @bot.command(name='n8n')
@@ -379,7 +379,7 @@ async def n8n_help(ctx, *, question):
 
 ### Planned Features
 
-1. **🎯 Specialized Models**: Fine-tuned models for n8n-specific tasks
+1. **🎯 Specialized Models**: Fine-tuned models for specific tasks and workflows
 2. **🔗 Direct n8n Integration**: Real-time workflow analysis and suggestions
 3. **📱 Mobile App**: Native mobile copilot experience
 4. **🤝 Collaborative Features**: Shared knowledge bases and team insights
@@ -410,4 +410,4 @@ async def n8n_help(ctx, *, question):
 
 **¡Bienvenido a N8Nation Enhanced AI Copilot - Tu asistente inteligente para automatización con n8n!** 🤖✨
 
-*Este proyecto es parte del ecosistema N8Nation. Para más información sobre la visión completa del proyecto, consulta el [N8NATION_MASTER_PLAN.md](../../N8NATION_MASTER_PLAN.md).*
+*Este proyecto es parte del ecosistema n8nation. Para más información sobre la visión completa del proyecto, consulta el [N8NATION_MASTER_PLAN.md](../../N8NATION_MASTER_PLAN.md).*

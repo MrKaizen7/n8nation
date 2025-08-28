@@ -54,7 +54,7 @@ echo.
 echo ➡️ Need help or want to connect with the community?
 echo ➡️ Join our Telegram Channel: https://t.me/n8nation
 echo ➡️ Join our Telegram Group: https://t.me/n8nation_chat
-echo ➡️ Check out the repository for more info: https://github.com/tu_usuario/tu_repositorio
+echo ➡️ Check out the repository for more info: https://github.com/MrKaizen7/n8nation
 echo.
 pause
 ```
