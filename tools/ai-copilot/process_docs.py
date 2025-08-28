@@ -8,7 +8,7 @@ from typing import List, Dict, Any, Optional
 def detect_content_language(content: str) -> str:
     """Detect language of content using simple heuristics"""
     # Spanish indicators
-    spanish_words = ['qué', 'cómo', 'para', 'con', 'configurar', 'webhook', 'flujo', 'automatización', 'integración']
+    spanish_words = ['qué', 'cómo', 'para', 'con', 'configurar', 'flujo', 'automatización', 'integración']
     # English indicators  
     english_words = ['what', 'how', 'the', 'and', 'configure', 'workflow', 'automation', 'integration']
     

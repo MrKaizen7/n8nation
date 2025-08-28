@@ -1,6 +1,6 @@
 # Contributing to N8Nation
 
-¡Gracias por tu interés en contribuir a N8Nation! 🚀
+¡Gracias por tu interés en contribuir a n8nation! 🚀
 
 ## Código de Conducta
 
