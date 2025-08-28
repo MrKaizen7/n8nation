@@ -40,11 +40,11 @@ Lo que comenzó como una solución técnica simple se transformó en una **oport
 
 ## Evolución de la Idea
 
-### Fase 1: Repositorio Público y Comunidad Básica
+### Fase 1: Repositorio Público y Comunidad Básica (Configuración Local de n8n)
 **Decisiones clave:**
-- Crear repositorio público en GitHub
-- Implementar canal y grupo de Telegram
-- Usar licencia MIT para máxima colaboración
+- Crear repositorio público en GitHub (`n8n_local_docker_ngrok`) como punto de entrada rápido.
+- Implementar canal y grupo de Telegram.
+- Usar licencia MIT para este repositorio de configuración local, fomentando la colaboración en la solución base.
 - Añadir enlaces de comunidad en el script de finalización
 
 **Contenido del script actualizado:**
@@ -79,12 +79,14 @@ pause
 ### Estrategia Multilingüe y Multiplataforma
 
 #### GitHub (Global - Bilingüe)
-**Función:** Núcleo técnico y punto de entrada profesional
+**Función:** Núcleo técnico y punto de entrada profesional para el ecosistema N8Nation completo.
 **Características:**
-- README.md con toggle español/inglés
-- Documentación técnica completa
-- PROPOSAL.md para atraer colaboradores
-- Licencia MIT para fomentar contribuciones
+- README.md con toggle español/inglés.
+- Documentación técnica completa.
+- PROPOSAL.md para atraer colaboradores.
+- **Licencia Sustainable Use License** para el ecosistema N8Nation completo, equilibrando la colaboración con la sostenibilidad comercial.
+
+**Nota:** El repositorio `n8n_local_docker_ngrok` (el punto de entrada rápido) mantendrá la licencia MIT para fomentar contribuciones a la configuración base.
 
 #### Telegram (Comunidad Hispana)
 **Canal (@n8nation):**

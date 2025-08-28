@@ -15,10 +15,10 @@
 
 - [x] **AI Copilot Avanzado**
   - [x] enhanced_copilot.py - Sistema principal con memoria conversacional
-  - [x] embed_and_store.py - Embedding multilingüe inteligente
+  - [x] ai-copilot/embed_and_store.py - Embedding multilingüe inteligente
   - [x] process_docs.py - Procesamiento avanzado de documentos
   - [x] config.py - Configuración centralizada
-  - [x] demo_copilot.py - Sistema de demostración completo
+  - [x] ai-copilot/demo_copilot.py - Sistema de demostración completo
   - [x] update_webhook.py - API webhook para actualizaciones
   - [x] knowledge_updater.py - Actualizador de base de conocimientos
   - [x] auto_update.sh - Script de automatización
@@ -32,6 +32,7 @@
 
 ### 🔄 **En Progreso**
 - [ ] **Configuración Básica**
+  - [ ] Toda la documentación y archivos deben estar en español.
   - [ ] .env.example - Template de variables de entorno
   - [ ] Verificación de funcionamiento de todos los scripts
   - [ ] Testing del sistema completo

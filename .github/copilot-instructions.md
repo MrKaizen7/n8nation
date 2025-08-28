@@ -6,11 +6,11 @@
 
 ## Architecture & Key Components
 - **enhanced_copilot.py**: Main conversational AI, manages memory, context, and prompt engineering.
-- **embed_and_store.py**: Generates multilingual vector embeddings using Google Gemini/text-embedding-004.
+- **ai-copilot/embed_and_store.py**: Generates multilingual vector embeddings using Google Gemini/text-embedding-004.
 - **process_docs.py**: Processes and classifies documents, auto-detects language, enriches metadata.
 - **config.py**: Centralized config for models, DB paths, language support, and performance settings.
 - **update_webhook.py**: RESTful API for real-time knowledge base updates.
-- **demo_copilot.py**: End-to-end demo, simulates all system features without external dependencies.
+- **ai-copilot/demo_copilot.py**: End-to-end demo, simulates all system features without external dependencies.
 
 ## Developer Workflows
 - **Setup**: Install Python 3.8+, run `pip install -r requirements.txt` in `ai-copilot`.

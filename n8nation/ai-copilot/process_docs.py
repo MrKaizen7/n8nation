@@ -258,7 +258,7 @@ def main():
     if success:
         print(f"\n🎉 PROCESAMIENTO COMPLETADO")
         print(f"   {len(chunks)} chunks listos para embedding")
-        print(f"   Siguiente paso: ejecutar embed_and_store.py")
+        print(f"   Siguiente paso: ejecutar ai-copilot/embed_and_store.py")
     else:
         print(f"\n❌ PROCESAMIENTO FALLÓ")
 

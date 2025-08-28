@@ -29,5 +29,5 @@ Defines priorities and best practices for hackathon events in n8n AI Copilot, fo
 - Maintain an energetic, collaborative, and innovative tone.
 
 ## References
-- [demo_copilot.py](../../n8nation/docs/ai-copilot/demo_copilot.py)
+- [ai-copilot/demo_copilot.py](../../n8nation/ai-copilot/demo_copilot.py)
 - [project_tracking.instructions.md](./project_tracking.instructions.md)

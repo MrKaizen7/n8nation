@@ -21,7 +21,7 @@ These guidelines ensure that the `README.md` provides a clear, concise, and comp
    - Include commands for cloning, installing dependencies, configuring environment variables, and launching the application.
    - Reference `.env.example` and any setup scripts.
 6. **Development Workflow:** Briefly describe how to contribute or develop within the n8n AI Copilot environment.
-   - Mention relevant commands (e.g., `python enhanced_copilot.py`, `python demo_copilot.py`).
+   - Mention relevant commands (e.g., `python enhanced_copilot.py`, `python ai-copilot/demo_copilot.py`).
    - Reference modular instructions and prompts in `.github/instructions/` and `.github/prompts/`.
 7. **Key Technologies:** A list of primary technologies used (e.g., Python, ChromaDB, Google Gemini, Docker, TypeScript).
 8. **Contributing:** Guidelines for contributing to the project (link to `CONTRIBUTING.md` if it exists).

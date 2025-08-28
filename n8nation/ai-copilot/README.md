@@ -20,10 +20,10 @@ The n8nation Enhanced AI Copilot is a sophisticated multilingual AI assistant sp
 ```
 Enhanced AI Copilot System
 ├── 🤖 enhanced_copilot.py        # Main conversational AI with memory
-├── 📊 embed_and_store.py         # Multilingual embedding generation
+├── 📊 ai-copilot/embed_and_store.py         # Multilingual embedding generation
 ├── 📄 process_docs.py            # Advanced document processing
 ├── 🔧 config.py                  # Centralized configuration management
-├── 🎮 demo_copilot.py           # Complete system demonstration
+├── 🎮 ai-copilot/demo_copilot.py           # Complete system demonstration
 └── 🔗 update_webhook.py         # Automated knowledge updates
 ```
 
@@ -405,6 +405,14 @@ async def n8n_help(ctx, *, question):
 - **Discussions**: Use GitHub Discussions for questions and ideas
 - **Community**: Join the N8Nation Discord community
 - **Documentation**: Check the `/docs` folder for detailed guides
+
+## Contributing
+
+Contributions are highly encouraged! Please follow the [CONTRIBUTING.md](../../CONTRIBUTING.md) file for detailed instructions. 
+
+## License
+
+This project is licensed under the Sustainable Use License (SUL). See the [LICENSE](../../LICENSE) file for more details.
 
 ---
 
