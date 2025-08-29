@@ -1,8 +1,8 @@
-# Collaboration Agreement Template - N8Nation
+# Collaboration Agreement Template - n8nation
 
-## Welcome to N8Nation! 🚀
+## Welcome to n8nation! 🚀
 
-This agreement outlines the terms of collaboration for members participating in N8Nation projects and community activities.
+This agreement outlines the terms of collaboration for members participating in n8nation projects and community activities.
 
 ## Collaborator Information
 - **Name:** 
@@ -44,7 +44,7 @@ This agreement outlines the terms of collaboration for members participating in 
 - **Vacation/Unavailable periods:** 
 
 ### Compensation Model
-By joining N8Nation, I agree to the **transparent points-based compensation system**:
+By joining n8nation, I agree to the **transparent points-based compensation system**:
 
 #### Points System
 - **Project Points:** Earned based on contribution to paid client projects
@@ -54,7 +54,7 @@ By joining N8Nation, I agree to the **transparent points-based compensation syst
 #### Payment Structure
 - **Project Payments:** Calculated based on points earned per project
 - **Community Pot:** Quarterly distribution from community fund (10% of profits)
-- **Individual Sales:** 70% to creator, 30% to N8Nation for marketplace sales
+- **Individual Sales:** 70% to creator, 30% to n8nation for marketplace sales
 
 #### Payment Methods (Select preferred)
 - [ ] PayPal
@@ -65,23 +65,23 @@ By joining N8Nation, I agree to the **transparent points-based compensation syst
 
 ### Intellectual Property Agreement
 
-#### Work Created for N8Nation Projects
-- **Ownership:** All work created specifically for N8Nation client projects becomes property of N8Nation
+#### Work Created for n8nation Projects
+- **Ownership:** All work created specifically for n8nation client projects becomes property of n8nation
 - **Credit:** Collaborator retains attribution credit and can reference work in portfolio
 - **Usage Rights:** Collaborator can discuss experience and learnings but cannot redistribute exact client workflows
 - **Residual Knowledge:** Skills and general knowledge gained remain with collaborator
 
 #### Personal Work and Portfolio
 - **Individual Creations:** Work created independently remains collaborator's property
-- **Portfolio Usage:** Collaborator may showcase N8Nation work in portfolio with appropriate attribution
-- **Non-Compete:** 6-month cooling-off period for direct client relationships developed through N8Nation
+- **Portfolio Usage:** Collaborator may showcase n8nation work in portfolio with appropriate attribution
+- **Non-Compete:** 6-month cooling-off period for direct client relationships developed through n8nation
 
 ### Community Guidelines
 
 #### Expected Behavior
 - [ ] Professional and respectful communication
 - [ ] Collaborative spirit - helping other members
-- [ ] Quality work that reflects well on N8Nation brand
+- [ ] Quality work that reflects well on n8nation brand
 - [ ] Timely communication on project status
 - [ ] Adherence to established deadlines
 
@@ -106,7 +106,7 @@ By joining N8Nation, I agree to the **transparent points-based compensation syst
 - **Project Chat:** Dedicated channel for each project
 - **General Community:** @n8nation_chat Telegram group
 - **Announcements:** @n8nation Telegram channel
-- **App Platform:** N8Nation React app (when available)
+- **App Platform:** n8nation React app (when available)
 
 ### Termination and Changes
 
@@ -117,7 +117,7 @@ By joining N8Nation, I agree to the **transparent points-based compensation syst
 - **IP Retention:** Previous agreements on IP remain in effect
 
 #### Involuntary Removal
-N8Nation reserves the right to remove collaborators for:
+n8nation reserves the right to remove collaborators for:
 - Violation of community guidelines
 - Poor quality work that affects client relationships
 - Breach of confidentiality or IP agreements
@@ -139,13 +139,13 @@ N8Nation reserves the right to remove collaborators for:
 ### Confidentiality
 - Client information and project details are confidential
 - No sharing of client data outside project team
-- Non-disclosure of N8Nation internal processes and strategies
+- Non-disclosure of n8nation internal processes and strategies
 - Professional discretion in all communications
 
 ### Dispute Resolution
 1. **Direct Communication:** Attempt to resolve issues directly
 2. **Community Mediation:** Community leaders facilitate discussion
-3. **Final Decision:** N8Nation founder makes final determination
+3. **Final Decision:** n8nation founder makes final determination
 4. **Appeal Process:** 30 days to appeal major decisions
 
 ## Signatures and Agreement
@@ -153,7 +153,7 @@ N8Nation reserves the right to remove collaborators for:
 ### Collaborator Agreement
 By signing below, I agree to:
 - All terms outlined in this collaboration agreement
-- N8Nation's community guidelines and standards
+- n8nation's community guidelines and standards
 - The points-based compensation system as described
 - Intellectual property terms for client work
 - Professional conduct and confidentiality requirements
@@ -161,10 +161,10 @@ By signing below, I agree to:
 **Collaborator Signature:** ___________________  
 **Date:** ___________________
 
-### N8Nation Acceptance
-Welcome to the N8Nation community! We're excited to have you as part of our collaborative ecosystem.
+### n8nation Acceptance
+Welcome to the n8nation community! We're excited to have you as part of our collaborative ecosystem.
 
-**N8Nation Representative:** Steven (MrKaizen7)  
+**n8nation Representative:** Steven (MrKaizen7)  
 **Date:** ___________________
 
 ---

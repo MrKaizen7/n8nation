@@ -1,4 +1,4 @@
-# Consideraciones Legales y Cumplimiento - N8Nation
+# Consideraciones Legales y Cumplimiento - n8nation
 
 ## Análisis de Licencias de n8n
 
@@ -14,7 +14,7 @@
 - Instalar n8n en servidores de clientes
 - Proporcionar soporte y mantenimiento
 
-**Casos de Uso Específicos para N8Nation:**
+**Casos de Uso Específicos para n8nation:**
 - ✅ **Consultoría:** Cobrar por tiempo/expertise desarrollando workflows
 - ✅ **Instalación:** Cobrar por configurar n8n en infraestructura del cliente  
 - ✅ **Mantenimiento:** Cobrar mensualidades por monitorear workflows
@@ -74,7 +74,7 @@
 
 **Estructura Recomendada:**
 ```
-N8Nation LLC
+n8nation LLC
 ├── Steven (Managing Member) - 60%
 ├── Core Team Pool - 25%
 ├── Community Pool - 10%  
@@ -96,18 +96,18 @@ N8Nation LLC
 #### Sección: Propiedad Intelectual
 ```
 PROPIEDAD DE WORKFLOWS:
-- N8Nation retiene propiedad de metodologías y procesos desarrollados
+- n8nation retiene propiedad de metodologías y procesos desarrollados
 - Cliente obtiene licencia perpetua de uso del workflow específico
-- N8Nation puede reutilizar conceptos generales en otros proyectos
+- n8nation puede reutilizar conceptos generales en otros proyectos
 - Cliente no puede redistribuir o revender el workflow sin autorización
 ```
 
 #### Sección: Limitación de Responsabilidad
 ```
 LIMITACIONES:
-- N8Nation no es responsable por downtime de servicios de terceros
+- n8nation no es responsable por downtime de servicios de terceros
 - Cliente es responsable de mantener credenciales y APIs actualizadas
-- N8Nation provee soporte best-effort, no garantías de uptime 100%
+- n8nation provee soporte best-effort, no garantías de uptime 100%
 - Responsabilidad limitada al monto pagado por el servicio específico
 ```
 
@@ -116,10 +116,10 @@ LIMITACIONES:
 #### Sección: Trabajo Colaborativo
 ```
 PROPIEDAD INTELECTUAL:
-- Todo trabajo creado para proyectos N8Nation es propiedad de N8Nation
+- Todo trabajo creado para proyectos n8nation es propiedad de n8nation
 - Colaborador retiene crédito y derecho a participación en ganancias
 - Colaborador puede usar experiencia en portfolio personal
-- Prohibida la competencia directa usando trabajos específicos de N8Nation
+- Prohibida la competencia directa usando trabajos específicos de n8nation
 ```
 
 #### Sección: Sistema de Compensación
@@ -135,7 +135,7 @@ PAGOS Y TRANSPARENCIA:
 
 **Enfoque Balanceado:**
 - **NO:** Prohibición total de trabajar en automatización
-- **SÍ:** Prohibición específica de usar workflows exactos de N8Nation
+- **SÍ:** Prohibición específica de usar workflows exactos de n8nation
 - **SÍ:** Período de "cooling off" de 6 meses para clientes específicos
 - **SÍ:** Protección de lista de clientes y estrategias internas
 
@@ -182,10 +182,10 @@ app.delete('/api/gdpr/delete/:userId', async (req, res) => {
 ### Trademark Strategy
 
 **Marcas a Registrar:**
-1. **"N8Nation"** - Marca principal
-2. **"N8Nation Academy"** - Para cursos y educación
-3. **"N8Nation Marketplace"** - Para venta de workflows
-4. **Logo de N8Nation** - Marca gráfica
+1. **"n8nation"** - Marca principal
+2. **"n8nation Academy"** - Para cursos y educación
+3. **"n8nation Marketplace"** - Para venta de workflows
+4. **Logo de n8nation** - Marca gráfica
 
 **Clases de Registro:**
 - Clase 35: Servicios comerciales y administrativos
@@ -226,9 +226,9 @@ Dominios a Registrar:
 ### Tax Structure Optimization
 ```
 Estructura Fiscal Recomendada:
-├── N8Nation LLC (Delaware) - Holding
-├── N8Nation Spain SL - Operaciones EU
-├── N8Nation Mexico SA - Operaciones LATAM
+├── n8nation LLC (Delaware) - Holding
+├── n8nation Spain SL - Operaciones EU
+├── n8nation Mexico SA - Operaciones LATAM
 └── Individual Tax Treaties según colaborador
 ```
 
@@ -328,7 +328,7 @@ Estructura Fiscal Recomendada:
 
 ## Conclusion
 
-El modelo de negocio de N8Nation es **totalmente compatible** con la licencia de n8n cuando se estructura correctamente como servicios profesionales en lugar de redistribución de software.
+El modelo de negocio de n8nation es **totalmente compatible** con la licencia de n8n cuando se estructura correctamente como servicios profesionales en lugar de redistribución de software.
 
 **Keys to Legal Success:**
 1. **Clear Service Positioning:** Siempre vender servicio, nunca software
@@ -336,4 +336,4 @@ El modelo de negocio de N8Nation es **totalmente compatible** con la licencia de
 3. **Proactive Compliance:** Anticipar requirements legales del crecimiento
 4. **Professional Advice:** Invest in legal counsel desde el inicio
 
-El framework legal propuesto permite a N8Nation escalar globalmente mientras mantiene compliance total y protege todos los stakeholders.
+El framework legal propuesto permite a n8nation escalar globalmente mientras mantiene compliance total y protege todos los stakeholders.

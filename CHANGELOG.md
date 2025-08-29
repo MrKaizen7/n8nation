@@ -1,4 +1,4 @@
-# CHANGELOG - N8Nation
+# CHANGELOG - n8nation
 
 Todos los cambios importantes del proyecto serán documentados en este archivo.
 

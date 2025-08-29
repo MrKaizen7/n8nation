@@ -231,7 +231,7 @@ curl -X POST http://localhost:5000/update \
    - API integration guides
 
 2. **Community Content**
-   - N8Nation workflow templates
+   - n8nation workflow templates
    - Community case studies
    - Best practices guides
 
@@ -346,7 +346,7 @@ export GOOGLE_API_KEY=$(cat ~/.google_ai_key)
 ### React App Integration
 
 ```javascript
-const N8NationCopilot = {
+const n8nationCopilot = {
   async query(message, language = 'es') {
     const response = await fetch('/api/copilot/query', {
       method: 'POST',
@@ -403,7 +403,7 @@ async def n8n_help(ctx, *, question):
 
 - **Issues**: Create GitHub issues for bugs and feature requests
 - **Discussions**: Use GitHub Discussions for questions and ideas
-- **Community**: Join the N8Nation Discord community
+- **Community**: Join the n8nation Discord community
 - **Documentation**: Check the `/docs` folder for detailed guides
 
 ## Contributing
@@ -416,6 +416,16 @@ This project is licensed under the Sustainable Use License (SUL). See the [LICEN
 
 ---
 
-**¡Bienvenido a N8Nation Enhanced AI Copilot - Tu asistente inteligente para automatización con n8n!** 🤖✨
+**¡Bienvenido a n8nation Enhanced AI Copilot - Tu asistente inteligente para automatización con n8n!** 🤖✨
 
 *Este proyecto es parte del ecosistema n8nation. Para más información sobre la visión completa del proyecto, consulta el [N8NATION_MASTER_PLAN.md](../../N8NATION_MASTER_PLAN.md).*
+
+## Community
+
+Join our community to ask questions, share your workflows, and connect with other n8n users!
+
+*   **Telegram Channel:** [https://t.me/n8nation]
+*   **Telegram Group:** [https://t.me/n8nation_chat]
+*   **Reddit:** [https://www.reddit.com/r/n8nation_]
+
+**Want to collaborate?** Visit our [community repository](community-repo/README.md) for resources and contribution opportunities under the MIT license. For collaborative business opportunities in the n8nation ecosystem, see the [PROPOSAL.md](PROPOSAL.md) in the main [n8nation](https://github.com/MrKaizen7/n8nation) repository.

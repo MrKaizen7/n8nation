@@ -1,5 +1,5 @@
 #!/bin/bash
-# N8Nation Knowledge Base Auto-Updater
+# n8nation Knowledge Base Auto-Updater
 # Save this as: /workspaces/n8n_local_docker_ngrok/n8nation/docs/ai-copilot/auto_update.sh
 
 # Setup environment

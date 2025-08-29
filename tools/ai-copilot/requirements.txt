@@ -1,4 +1,4 @@
-# N8Nation AI Copilot Dependencies
+# n8nation AI Copilot Dependencies
 # Core RAG System
 chromadb>=0.4.0
 google-generativeai>=0.3.0

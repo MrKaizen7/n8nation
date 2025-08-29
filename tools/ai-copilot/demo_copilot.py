@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Demo script for N8Nation AI Copilot System
+Demo script for n8nation AI Copilot System
 Shows the complete workflow without external dependencies
 """
 

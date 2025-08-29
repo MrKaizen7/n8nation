@@ -1,4 +1,4 @@
-# N8Nation Enhanced AI Copilot — AI Agent Instructions
+# n8nation Enhanced AI Copilot — AI Agent Instructions
 
 ## Project Overview
 - This repo powers a multilingual AI assistant for n8n workflow automation, with advanced vector search, conversation memory, and real-time knowledge updates.

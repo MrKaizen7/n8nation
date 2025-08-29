@@ -1,4 +1,4 @@
-# Project Proposal Template - N8Nation
+# Project Proposal Template - n8nation
 
 ## Client Information
 - **Company Name:** 
@@ -117,8 +117,8 @@ System A → Processing → System B → Notification
 
 ---
 
-**Prepared by:** N8Nation Team  
+**Prepared by:** n8nation Team  
 **Date:** [Date]  
 **Valid Until:** [30 days from date]
 
-*This proposal is subject to N8Nation standard terms and conditions. Final pricing may vary based on scope refinements during project planning.*
+*This proposal is subject to n8nation standard terms and conditions. Final pricing may vary based on scope refinements during project planning.*

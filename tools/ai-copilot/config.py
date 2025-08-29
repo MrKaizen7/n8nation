@@ -1,5 +1,5 @@
 """
-Configuración centralizada para N8Nation AI Copilot
+Configuración centralizada para n8nation AI Copilot
 """
 
 import os

@@ -1,4 +1,4 @@
-version: '3.8'
+version: '3.8' # still a template, aimed to be able to launch n8n and other services
 
 services:
   # Placeholder for your AI Copilot service

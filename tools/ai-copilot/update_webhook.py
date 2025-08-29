@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-N8Nation Knowledge Base Webhook Trigger
+n8nation Knowledge Base Webhook Trigger
 Permite actualizar la base de conocimiento via HTTP requests
 Útil para integración con GitHub webhooks, apps React, etc.
 """
@@ -89,7 +89,7 @@ def health_check():
     """Health check endpoint"""
     return jsonify({
         "status": "healthy",
-        "service": "N8Nation Knowledge Updater",
+        "service": "n8nation Knowledge Updater",
         "version": "1.0"
     })
 
@@ -174,7 +174,7 @@ if __name__ == '__main__':
     port = int(os.getenv('PORT', 5000))
     debug = os.getenv('DEBUG', 'false').lower() == 'true'
     
-    logger.info(f"Starting N8Nation Knowledge Updater API on {host}:{port}")
+    logger.info(f"Starting n8nation Knowledge Updater API on {host}:{port}")
     logger.info(f"Update token: {os.getenv('UPDATE_TOKEN', 'default-token-change-me')}")
     
     app.run(host=host, port=port, debug=debug)

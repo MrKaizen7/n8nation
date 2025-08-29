@@ -1,8 +1,8 @@
-# Client Contract Template - N8Nation
+# Client Contract Template - n8nation
 
 ## SERVICE AGREEMENT FOR AUTOMATION DEVELOPMENT
 
-**Service Provider:** N8Nation  
+**Service Provider:** n8nation  
 **Client:** [CLIENT COMPANY NAME]  
 **Project:** [PROJECT NAME]  
 **Date:** [CONTRACT DATE]  
@@ -13,7 +13,7 @@
 ## 1. PARTIES AND SCOPE
 
 ### 1.1 Service Provider
-**N8Nation**  
+**n8nation**  
 Representative: Steven [Last Name]  
 Email: [email]  
 GitHub: https://github.com/MrKaizen7/n8n_local_docker_ngrok
@@ -126,14 +126,14 @@ Address: [ADDRESS]
 ## 6. INTELLECTUAL PROPERTY
 
 ### 6.1 Work Product Ownership
-- **Custom Workflows:** N8Nation retains ownership of workflow templates and methodologies
+- **Custom Workflows:** n8nation retains ownership of workflow templates and methodologies
 - **Client License:** Client receives perpetual, non-exclusive license to use delivered workflows
 - **Modifications:** Client may modify workflows for internal use only
 - **Redistribution:** Client may not redistribute or resell workflows without written consent
 
 ### 6.2 Confidentiality
 - **Mutual NDA:** Both parties agree to maintain confidentiality of proprietary information
-- **Data Security:** N8Nation will not retain client data after project completion
+- **Data Security:** n8nation will not retain client data after project completion
 - **Trade Secrets:** Both parties will protect each other's business methodologies and processes
 
 ---
@@ -141,14 +141,14 @@ Address: [ADDRESS]
 ## 7. WARRANTIES AND LIMITATIONS
 
 ### 7.1 Service Warranty
-N8Nation warrants that:
+n8nation warrants that:
 - Services will be performed with professional skill and care
 - Deliverables will function as specified in this agreement
 - Work will be free from material defects for 30 days post-delivery
 - All work will be original and non-infringing
 
 ### 7.2 Limitation of Liability
-- **Cap:** N8Nation's liability is limited to the total amount paid under this agreement
+- **Cap:** n8nation's liability is limited to the total amount paid under this agreement
 - **Exclusions:** No liability for indirect, consequential, or punitive damages
 - **Force Majeure:** Not responsible for delays due to circumstances beyond reasonable control
 - **Third-Party Services:** Not responsible for downtime or issues with integrated third-party services
@@ -165,11 +165,11 @@ N8Nation warrants that:
 ### 8.1 Termination Rights
 - Either party may terminate with 15 days written notice
 - Immediate termination allowed for material breach (with 5-day cure period)
-- N8Nation may terminate if client fails to provide necessary access or cooperation
+- n8nation may terminate if client fails to provide necessary access or cooperation
 
 ### 8.2 Effect of Termination
 - Client pays for all services completed to date of termination
-- N8Nation delivers all completed work products
+- n8nation delivers all completed work products
 - Confidentiality obligations survive termination
 - No refund of payments for completed work
 
@@ -203,10 +203,10 @@ By signing below, Client agrees to all terms and conditions of this Service Agre
 **Title:** [TITLE]  
 **Date:** _______________
 
-### N8Nation Acceptance
+### n8nation Acceptance
 **Service Provider Signature:** ________________________________  
 **Printed Name:** Steven [Last Name]  
-**Title:** Founder, N8Nation  
+**Title:** Founder, n8nation  
 **Date:** _______________
 
 ---
@@ -228,11 +228,11 @@ By signing below, Client agrees to all terms and conditions of this Service Agre
 
 ### Appendix C: Change Request Process
 1. Client submits written change request
-2. N8Nation provides impact assessment and pricing
+2. n8nation provides impact assessment and pricing
 3. Client approves additional costs and timeline changes
 4. Written amendment to contract executed
 5. Work proceeds with approved changes
 
 ---
 
-*This agreement represents the complete understanding between N8Nation and [CLIENT] for automation development services. Both parties should retain signed copies for their records.*
+*This agreement represents the complete understanding between n8nation and [CLIENT] for automation development services. Both parties should retain signed copies for their records.*

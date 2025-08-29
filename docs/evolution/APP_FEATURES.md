@@ -1,4 +1,4 @@
-# Especificaciones de la Aplicación React - N8Nation
+# Especificaciones de la Aplicación React - n8nation
 
 ## Visión General de la Aplicación
 
@@ -489,4 +489,4 @@ jobs:
 - [ ] Enterprise features
 - [ ] API para terceros
 
-La aplicación React de N8Nation será la piedra angular que diferencia el proyecto de una simple colección de herramientas, convirtiéndolo en una plataforma profesional y escalable.
+La aplicación React de n8nation será la piedra angular que diferencia el proyecto de una simple colección de herramientas, convirtiéndolo en una plataforma profesional y escalable.

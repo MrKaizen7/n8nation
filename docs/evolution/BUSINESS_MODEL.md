@@ -1,8 +1,8 @@
-# Modelo de Negocio - N8Nation
+# Modelo de Negocio - n8nation
 
 ## Resumen Ejecutivo
 
-N8Nation opera como una **agencia híbrida colaborativa** que transforma el modelo tradicional de servicios de automatización mediante un sistema de compensación basado en puntos y participación comunitaria.
+n8nation opera como una **agencia híbrida colaborativa** que transforma el modelo tradicional de servicios de automatización mediante un sistema de compensación basado en puntos y participación comunitaria.
 
 ## Análisis de Licencias
 
@@ -87,7 +87,7 @@ N8Nation opera como una **agencia híbrida colaborativa** que transforma el mode
 - **Workflows enterprise:** $500+
 
 **Comisiones:**
-- N8Nation: 30%
+- n8nation: 30%
 - Creador: 70%
 
 ### 5. Educación y Cursos
@@ -109,7 +109,7 @@ N8Nation opera como una **agencia híbrida colaborativa** que transforma el mode
 - Workshops en vivo mensuales
 - Acceso a comunidad VIP
 - Oportunidades de colaboración
-- Certificación como N8Nation Partner
+- Certificación como n8nation Partner
 
 ## Sistema Financiero Colaborativo
 

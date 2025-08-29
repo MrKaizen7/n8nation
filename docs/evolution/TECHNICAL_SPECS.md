@@ -1,4 +1,4 @@
-# Especificaciones Técnicas - N8Nation
+# Especificaciones Técnicas - n8nation
 
 ## Configuración del Entorno de Desarrollo
 
@@ -45,7 +45,7 @@ volumes:
 #### start-n8n.bat
 ```batch
 @echo off
-echo Iniciando N8Nation Development Environment...
+echo Iniciando n8nation Development Environment...
 echo.
 
 REM Verificar si Docker está corriendo

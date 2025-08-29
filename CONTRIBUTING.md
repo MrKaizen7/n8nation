@@ -1,4 +1,4 @@
-# Contributing to N8Nation
+# Contributing to n8nation
 
 ¡Gracias por tu interés en contribuir a n8nation! 🚀
 
@@ -78,7 +78,7 @@
 ## Sistema de Puntos y Compensación
 
 ### Cómo Funcionan los Puntos
-N8Nation usa un **sistema transparente de puntos** para reconocer y compensar contribuciones:
+n8nation usa un **sistema transparente de puntos** para reconocer y compensar contribuciones:
 
 #### Puntos por Desarrollo de Proyectos
 | Actividad | Puntos Base | Multiplicadores |
@@ -282,7 +282,7 @@ test: add unit tests for API integration
    - Voting rights on community decisions
 
 🏆 Community Leader (2000+ points)
-   - Major impact on N8Nation growth
+   - Major impact on n8nation growth
    - Strategic decision involvement
    - Profit-sharing opportunities
 ```
@@ -299,7 +299,7 @@ test: add unit tests for API integration
 
 ### How Decisions Are Made
 
-N8Nation operates under a **democratic governance model** where major decisions are made through community voting:
+n8nation operates under a **democratic governance model** where major decisions are made through community voting:
 
 1. **Proposal** (3 days): Community member proposes new direction/feature
 2. **Discussion** (7 days): Open debate in Telegram and GitHub  
@@ -338,7 +338,7 @@ For complete details about our governance structure, voting procedures, and deci
 - [ ] Start with a small, manageable task
 - [ ] Ask questions when you need help!
 
-**¡Bienvenido a N8Nation! Tu contribución hace la diferencia.** 🚀
+**¡Bienvenido a n8nation! Tu contribución hace la diferencia.** 🚀
 
 ---
 

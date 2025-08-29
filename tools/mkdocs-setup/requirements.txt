@@ -1,5 +1,5 @@
-# N8Nation MkDocs Dependencies
-# Adaptado y mejorado para el proyecto N8Nation
+# n8nation MkDocs Dependencies
+# Adaptado y mejorado para el proyecto n8nation
 
 # ==========================================
 # CORE MKDOCS

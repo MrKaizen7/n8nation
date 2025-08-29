@@ -1,4 +1,4 @@
-# Estrategia de Comunidad - N8Nation
+# Estrategia de Comunidad - n8nation
 
 ## Visión de Comunidad
 
@@ -37,7 +37,7 @@
 ## Sección en Español  
 - Comunidad hispana focus
 - Links a Telegram y Reddit
-- Invitación a N8Nation
+- Invitación a n8nation
 ```
 
 #### Engagement Tactics
@@ -79,7 +79,7 @@
 
 ### Reddit: El Marketplace (Español)
 
-#### Subreddit: r/N8NationES
+#### Subreddit: r/n8nationES
 **Propósito:** Directorio de workflows y recursos
 
 **Categorías de posts:**
@@ -135,7 +135,7 @@
 - Tool comparisons
 
 #### 4. Thought Leadership (10%)
-**Objetivos:** Posicionar N8Nation como líder
+**Objetivos:** Posicionar n8nation como líder
 
 **Formats:**
 - Predictions sobre automatización
@@ -232,12 +232,12 @@
 - Badges por contribuciones
 - Leaderboard de puntos comunitarios
 - Monthly challenges con premios
-- "N8Nation Expert" certification path
+- "n8nation Expert" certification path
 
 #### 4. Community Events
 - Monthly virtual meetups
 - Quarterly workshops avanzados
-- Annual N8Nation Conference (virtual)
+- Annual n8nation Conference (virtual)
 - Hackathons temáticos
 
 ## Roles y Responsabilidades
@@ -340,7 +340,7 @@
 
 ### Q3 2025: Engagement
 - [ ] Launch premium community tier
-- [ ] First N8Nation meetup
+- [ ] First n8nation meetup
 - [ ] Community-created course
 - [ ] 1,000+ total members across platforms
 
@@ -350,4 +350,4 @@
 - [ ] Annual community survey
 - [ ] Plan for 2026 expansion
 
-La estrategia de comunidad de N8Nation se basa en crear valor genuino antes que monetización, estableciendo relaciones duraderas que se convierten naturalmente en oportunidades de negocio.
+La estrategia de comunidad de n8nation se basa en crear valor genuino antes que monetización, estableciendo relaciones duraderas que se convierten naturalmente en oportunidades de negocio.

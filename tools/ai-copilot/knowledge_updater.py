@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-N8Nation Knowledge Base Updater
-Sistema inteligente para mantener actualizada la base de conocimiento
+n8nation Knowledge Base Updater
+Sistema inteligente para mantener actualizada la base de conocimiento #no testeado
 """
 
 import os
@@ -80,7 +80,7 @@ class KnowledgeUpdater:
                 # Create new collection if it doesn't exist
                 self.collection = self.client.create_collection(
                     name=self.collection_name,
-                    metadata={"description": "N8Nation knowledge base with enhanced metadata"}
+                    metadata={"description": "n8nation knowledge base with enhanced metadata"}
                 )
                 logger.info(f"✅ Creada nueva colección: {self.collection_name}")
         
@@ -624,7 +624,7 @@ def main():
     """Main CLI function"""
     import argparse
     
-    parser = argparse.ArgumentParser(description="N8Nation Knowledge Base Updater")
+    parser = argparse.ArgumentParser(description="n8nation Knowledge Base Updater")
     parser.add_argument("--force", action="store_true", help="Force update all sources")
     parser.add_argument("--source", type=str, help="Update specific source only")
     parser.add_argument("--add-source", nargs=4, metavar=('NAME', 'TYPE', 'URL', 'FREQUENCY'),

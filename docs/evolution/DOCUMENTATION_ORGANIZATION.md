@@ -1,9 +1,9 @@
-# Organización de Documentación - N8Nation
+# Organización de Documentación - n8nation
 
 ## Estructura Actual vs. Propuesta
 
 ### Estado Actual de `/docs/`
-La carpeta `docs/` contiene 10 archivos (01.md - 10.md) que registran la evolución orgánica de la idea N8Nation desde el problema técnico inicial hasta el modelo de negocio colaborativo completo.
+La carpeta `docs/` contiene 10 archivos (01.md - 10.md) que registran la evolución orgánica de la idea n8nation desde el problema técnico inicial hasta el modelo de negocio colaborativo completo.
 
 ### Documentación Consolidada Creada
 
@@ -116,7 +116,7 @@ n8n_local_docker_ngrok/
 
 #### 1. **ONBOARDING.md** - Guía para Nuevos Colaboradores
 ```markdown
-# Guía de Onboarding - N8Nation
+# Guía de Onboarding - n8nation
 
 ## Bienvenida
 ## Historia del Proyecto (link a evolution/)
@@ -128,7 +128,7 @@ n8n_local_docker_ngrok/
 
 #### 2. **CONTRIBUTING.md** - Guía de Contribuciones
 ```markdown
-# Cómo Contribuir a N8Nation
+# Cómo Contribuir a n8nation
 
 ## Código de Conducta
 ## Tipos de Contribuciones
@@ -139,7 +139,7 @@ n8n_local_docker_ngrok/
 
 #### 3. **CHANGELOG.md** - Registro de Cambios
 ```markdown
-# Changelog - N8Nation
+# Changelog - n8nation
 
 ## [Unreleased]
 ### Added
@@ -155,7 +155,7 @@ n8n_local_docker_ngrok/
 
 #### 4. **FAQ.md** - Preguntas Frecuentes
 ```markdown
-# FAQ - N8Nation
+# FAQ - n8nation
 
 ## Para Clientes
 ## Para Colaboradores  

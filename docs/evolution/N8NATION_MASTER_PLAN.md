@@ -1,4 +1,4 @@
-# N8Nation: Plan Maestro Estratégico
+# n8nation: Plan Maestro Estratégico
 *Documento de Fuente Única de Verdad (Single Source of Truth)*
 
 ## Tabla de Contenidos
@@ -19,7 +19,7 @@
 ## Génesis del Proyecto
 
 ### El Problema Inicial
-El proyecto N8Nation nació de una frustración específica en un grupo de Facebook: **la URL cambiante de Ngrok en su versión gratuita**, que dificulta enormemente las pruebas de webhooks en n8n durante el desarrollo local.
+El proyecto n8nation nació de una frustración específica en un grupo de Facebook: **la URL cambiante de Ngrok en su versión gratuita**, que dificulta enormemente las pruebas de webhooks en n8n durante el desarrollo local.
 
 ### La Solución Técnica Original
 **Componentes clave:**
@@ -79,12 +79,12 @@ pause
 ### Estrategia Multilingüe y Multiplataforma
 
 #### GitHub (Global - Bilingüe)
-**Función:** Núcleo técnico y punto de entrada profesional para el ecosistema N8Nation completo.
+**Función:** Núcleo técnico y punto de entrada profesional para el ecosistema n8nation completo.
 **Características:**
 - README.md con toggle español/inglés.
 - Documentación técnica completa.
 - PROPOSAL.md para atraer colaboradores.
-- **Licencia Sustainable Use License** para el ecosistema N8Nation completo, equilibrando la colaboración con la sostenibilidad comercial.
+- **Licencia Sustainable Use License** para el ecosistema n8nation completo, equilibrando la colaboración con la sostenibilidad comercial.
 
 **Nota:** El repositorio `n8n_local_docker_ngrok` (el punto de entrada rápido) mantendrá la licencia MIT para fomentar contribuciones a la configuración base.
 
@@ -256,7 +256,7 @@ En lugar de "vender un JSON", vender **servicio integral:**
 ## Gobernanza Democrática
 
 ### Principio Fundacional
-**N8Nation se gobierna por sus miembros activos, no por imposición unilateral.** Este principio es fundamental para mantener la confianza, transparencia y sostenibilidad a largo plazo del ecosistema.
+**n8nation se gobierna por sus miembros activos, no por imposición unilateral.** Este principio es fundamental para mantener la confianza, transparencia y sostenibilidad a largo plazo del ecosistema.
 
 ### Modelo de Gobernanza Híbrida
 
@@ -412,7 +412,7 @@ Peso de Voto = (Puntos Últimos 12 Meses × 0.7) + (Puntos Históricos × 0.3)
 
 ### 1. Perspectiva del Economista
 **Análisis del modelo:**
-> "El modelo de N8Nation es un híbrido de economía de plataforma y cooperativismo en la 'gig economy'. Resuelve el problema de 'la tragedia de los comunes' al atribuir valor a contribuciones que no son directamente monetarias."
+> "El modelo de n8nation es un híbrido de economía de plataforma y cooperativismo en la 'gig economy'. Resuelve el problema de 'la tragedia de los comunes' al atribuir valor a contribuciones que no son directamente monetarias."
 
 **Fortalezas identificadas:**
 - Sistema de incentivos avanzado
@@ -468,7 +468,7 @@ Peso de Voto = (Puntos Últimos 12 Meses × 0.7) + (Puntos Históricos × 0.3)
 
 ### Propiedad Intelectual
 **Términos de servicio deben establecer:**
-- Todo trabajo creado para proyectos N8Nation es propiedad de N8Nation
+- Todo trabajo creado para proyectos n8nation es propiedad de n8nation
 - Colaboradores retienen crédito y participación en ganancias
 - Clientes obtienen licencia de uso, no propiedad del workflow
 - Workflows pueden reutilizarse para otros clientes (con modificaciones)
@@ -562,10 +562,10 @@ Peso de Voto = (Puntos Últimos 12 Meses × 0.7) + (Puntos Históricos × 0.3)
 
 ## Visión a Largo Plazo
 
-### Año 2: N8Nation como Ecosistema
+### Año 2: n8nation como Ecosistema
 - **50+ colaboradores especializados**
 - **Biblioteca de 1000+ workflows**
-- **Universidad N8Nation** con certificaciones reconocidas
+- **Universidad n8nation** con certificaciones reconocidas
 - **Presencia en 5+ países de habla española**
 - **$500K+ ingresos anuales**
 
@@ -583,7 +583,7 @@ Peso de Voto = (Puntos Últimos 12 Meses × 0.7) + (Puntos Históricos × 0.3)
 
 ## Conclusión: El Camino Está Trazado
 
-N8Nation representa más que un negocio: es un **movimiento hacia la colaboración inteligente** en la era de la automatización. 
+n8nation representa más que un negocio: es un **movimiento hacia la colaboración inteligente** en la era de la automatización. 
 
 **Lo que comenzó como** una solución a un problema técnico específico **se ha convertido en** un modelo de negocio disruptivo que puede cambiar cómo se entregan servicios de automatización.
 
@@ -594,7 +594,7 @@ N8Nation representa más que un negocio: es un **movimiento hacia la colaboraci�
 - Diferenciación tecnológica clara ✅
 - Plan de implementación detallado ✅
 
-**El siguiente paso es la ejecución.** Con esta documentación como guía, N8Nation tiene todo lo necesario para convertirse en el ecosistema de automatización colaborativa más importante del mundo de habla española.
+**El siguiente paso es la ejecución.** Con esta documentación como guía, n8nation tiene todo lo necesario para convertirse en el ecosistema de automatización colaborativa más importante del mundo de habla española.
 
 ---
 

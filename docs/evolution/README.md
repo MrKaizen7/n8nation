@@ -1,13 +1,13 @@
-# Documentación N8Nation - Índice
+# Documentación n8nation - Índice
 
 ## 📖 Sobre esta Carpeta
 
-La carpeta `/docs/` contiene la **historia evolutiva** del proyecto N8Nation, documentando el proceso de pensamiento desde el problema técnico inicial hasta el modelo de negocio colaborativo completo.
+La carpeta `/docs/` contiene la **historia evolutiva** del proyecto n8nation, documentando el proceso de pensamiento desde el problema técnico inicial hasta el modelo de negocio colaborativo completo.
 
 ## 📁 Estructura
 
 ### `/evolution/` - Historia del Proyecto
-Documentos que muestran la evolución orgánica de la idea N8Nation a través de conversaciones y análisis:
+Documentos que muestran la evolución orgánica de la idea n8nation a través de conversaciones y análisis:
 
 1. **`01-initial-problem.md`** - El problema original: URL cambiante de Ngrok
 2. **`02-community-idea.md`** - Primera expansión: repositorio público y comunidad
@@ -48,4 +48,4 @@ Esta documentación histórica no requiere actualizaciones regulares, pero nueva
 
 ---
 
-*Documentación generada como parte del proceso de consolidación estratégica de N8Nation - Agosto 2025*
+*Documentación generada como parte del proceso de consolidación estratégica de n8nation - Agosto 2025*

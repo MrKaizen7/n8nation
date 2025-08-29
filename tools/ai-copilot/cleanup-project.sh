@@ -1,8 +1,8 @@
 #!/bin/bash
-# N8Nation - Script de Limpieza y Organización
+# n8nation - Script de Limpieza y Organización
 # Elimina archivos innecesarios y organiza el proyecto
 
-echo "🧹 N8Nation - Limpieza y Organización del Proyecto"
+echo "🧹 n8nation - Limpieza y Organización del Proyecto"
 echo "=================================================="
 
 # Verificar que estamos en la ubicación correcta

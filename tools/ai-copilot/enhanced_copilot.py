@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-N8Nation Enhanced AI Copilot
-- Memoria conversacional
-- Prompt engineering especializado
-- Configuración RAG mejorada
+n8nation Enhanced AI Copilot
+- Memoria conversacional #no testeado
+- Prompt engineering especializado #no testeado
+- Configuración RAG mejorada #no testeado
 - Multi-idioma (español/inglés)
 """
 
@@ -203,17 +203,17 @@ class EnhancedCopilot:
         return context
     
     def create_system_prompt(self) -> str:
-        """Create specialized system prompt for N8Nation"""
+        """Create specialized system prompt for n8nation"""
         
         language_instructions = {
             "es": {
-                "identity": "Eres el asistente de IA especializado de N8Nation, la comunidad colaborativa de automatización en español.",
+                "identity": "Eres el asistente de IA especializado de n8nation, la comunidad colaborativa de automatización en español.",
                 "expertise": "Tienes profundo conocimiento en n8n, automatización de procesos, y integración de APIs populares en Latinoamérica.",
                 "style": "Responde en español de manera clara y práctica, con ejemplos específicos para el mercado hispanohablante.",
                 "examples": "Usa ejemplos con herramientas como WhatsApp Business, Mercado Pago, bancos latinos, CRMs locales, etc."
             },
             "en": {
-                "identity": "You are N8Nation's specialized AI assistant, from the collaborative automation community in Spanish.",
+                "identity": "You are n8nation's specialized AI assistant, from the collaborative automation community in Spanish.",
                 "expertise": "You have deep knowledge in n8n, process automation, and integration of popular APIs in Latin America.",
                 "style": "Respond in English clearly and practically, with specific examples for the Spanish-speaking market.",
                 "examples": "Use examples with tools like WhatsApp Business, Mercado Pago, Latin banks, local CRMs, etc."
@@ -409,7 +409,7 @@ Por favor, responde de manera útil y precisa usando TODA la información dispon
 
     def interactive_session(self):
         """Main interactive session"""
-        print("🚀 N8Nation Enhanced Copilot")
+        print("🚀 n8nation Enhanced Copilot")
         print("   Comandos especiales:")
         print("   - /lang es|en : Cambiar idioma")
         print("   - /level beginner|intermediate|advanced : Cambiar nivel técnico")

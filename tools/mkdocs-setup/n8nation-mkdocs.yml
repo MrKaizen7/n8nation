@@ -1,14 +1,14 @@
-# N8Nation MkDocs Configuration
-# Adaptado y mejorado del repositorio n8n-docs-review para N8Nation
+# n8nation MkDocs Configuration
+# Adaptado y mejorado del repositorio n8n-docs-review para n8nation
 
-site_name: N8Nation - Automatización Colaborativa
+site_name: n8nation - Automatización Colaborativa
 site_url: https://n8nation.github.io/
 site_description: Plataforma colaborativa para automatización con n8n, AI Copilot y comunidad en español.
 repo_url: https://github.com/MrKaizen7/n8n_local_docker_ngrok
 repo_name: MrKaizen7/n8n_local_docker_ngrok
 edit_uri: edit/main/n8nation/
 
-# N8Nation - Configuración de validación
+# n8nation - Configuración de validación
 validation:
   nav:
     omitted_files: warn
@@ -20,7 +20,7 @@ validation:
     absolute_links: relative_to_docs
     unrecognized_links: warn
 
-# N8Nation - Tema Material personalizado
+# n8nation - Tema Material personalizado
 theme:
   name: material
   custom_dir: _overrides
@@ -77,9 +77,9 @@ theme:
     # Sugerencias de búsqueda
     - search.suggest
 
-# N8Nation - Configuración extra
+# n8nation - Configuración extra
 extra:
-  # Analytics para N8Nation
+  # Analytics para n8nation
   analytics:
     provider: google
     property: G-XXXXXXXXX  # Reemplazar con ID real
@@ -90,7 +90,7 @@ extra:
     experimental: Función experimental
     deprecated: Deprecado
   
-  # Social links específicos de N8Nation
+  # Social links específicos de n8nation
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/MrKaizen7/n8n_local_docker_ngrok
@@ -105,7 +105,7 @@ extra:
       link: mailto:contact@n8nation.com
       name: Contacto
   
-  # Configuración específica de N8Nation
+  # Configuración específica de n8nation
   n8nation_extra:
     feedback:
       question: ¿Esta página fue útil?
@@ -122,7 +122,7 @@ extra:
       community: "https://t.me/n8nation_chat"
       docs_repo: "https://github.com/MrKaizen7/n8n_local_docker_ngrok"
 
-# N8Nation - CSS personalizado
+# n8nation - CSS personalizado
 extra_css:
   - _assets/css/n8nation-theme.css
   - _assets/css/ai-copilot-styles.css
@@ -130,7 +130,7 @@ extra_css:
   - _assets/css/community-widgets.css
   - _assets/css/feedback-system.css
 
-# N8Nation - JavaScript personalizado
+# n8nation - JavaScript personalizado
 extra_javascript:
   - _assets/js/n8nation-feedback.js
   - _assets/js/community-integration.js
@@ -144,7 +144,7 @@ watch:
   - _assets
   - ../  # Documentos del proyecto
 
-# N8Nation - Extensiones Markdown
+# n8nation - Extensiones Markdown
 markdown_extensions:
   # Abreviaciones para tooltips
   - abbr
@@ -170,7 +170,7 @@ markdown_extensions:
         - danger
         - example
         - quote
-        # N8Nation custom types
+        # n8nation custom types
         - workflow
         - copilot
         - community
@@ -213,7 +213,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-        # N8Nation custom fences
+        # n8nation custom fences
         - name: n8n-workflow
           class: n8n-workflow
           format: !!python/name:n8nation.formatters.workflow_formatter
@@ -245,7 +245,7 @@ markdown_extensions:
       permalink: "#"
       title: "En esta página"
 
-# N8Nation - Plugins
+# n8nation - Plugins
 plugins:
   # Búsqueda multiidioma
   - search:
@@ -274,7 +274,7 @@ plugins:
       caption_position: bottom
       background: rgba(0, 0, 0, 0.8)
   
-  # Sistema de macros para N8Nation
+  # Sistema de macros para n8nation
   - macros:
       include_yaml:
         - _data/n8nation-config.yml
@@ -315,10 +315,10 @@ plugins:
         remove_empty_space: true
       cache_safe: true
   
-  # N8Nation - Plugin para generar contenido para LLMs
+  # n8nation - Plugin para generar contenido para LLMs
   - llmstxt:
       markdown_description: |
-        Documentación de N8Nation, plataforma colaborativa para automatización con n8n.
+        Documentación de n8nation, plataforma colaborativa para automatización con n8n.
         Incluye guías técnicas, tutoriales, documentación del AI Copilot, y recursos comunitarios.
         Contenido principal en español con soporte multiidioma.
       full_output: llms-full.txt
@@ -332,7 +332,7 @@ plugins:
         "Recursos Comunitarios":
           - "community/*.md"
 
-# N8Nation - Navegación personalizada
+# n8nation - Navegación personalizada
 nav:
   - 🏠 Inicio: index.md
   - 🚀 Comenzar:
@@ -381,7 +381,7 @@ nav:
     - Roadmap: TODO.md
     - Licencias: LICENSE.md
 
-# N8Nation - Configuración de copyright
+# n8nation - Configuración de copyright
 copyright: |
-  Copyright &copy; 2025 N8Nation Community - Licencia MIT<br>
+  Copyright &copy; 2025 n8nation Community - Licencia MIT<br>
   Hecho con ❤️ para la comunidad de automatización en español
