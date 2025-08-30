@@ -123,8 +123,9 @@
 
 - [ ] **Bot de Telegram**
   - [ ] Canal @n8nation oficial
-  - [ ] Chat @n8nation_chat funcional
+  - [ ] Chat @n8nation_hub funcional
   - [ ] Notificaciones automáticas
+  - [ ] Implementar GroupHelp y SuperDifusorBot
 
 ## 🔮 **TODO - Prioridad Baja (Futuro)**
 

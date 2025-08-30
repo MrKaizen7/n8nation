@@ -53,7 +53,7 @@ echo ✅ All done. You can close this window or leave it open to monitor.
 echo.
 echo ➡️ Need help or want to connect with the community?
 echo ➡️ Join our Telegram Channel: https://t.me/n8nation
-echo ➡️ Join our Telegram Group: https://t.me/n8nation_chat
+echo ➡️ Join our Telegram Group: https://t.me/n8nation_hub
 echo ➡️ Check out the repository for more info: https://github.com/MrKaizen7/n8nation
 echo.
 pause
@@ -95,7 +95,7 @@ pause
 - Anuncios importantes
 - Contenido curado
 
-**Grupo (@n8nation_chat):**
+**Grupo (@n8nation_hub):**
 - Soporte técnico comunitario
 - Networking entre usuarios
 - Intercambio de workflows
@@ -607,7 +607,7 @@ Este repositorio es un punto de entrada para el proyecto completo de **n8nation*
 ¡Únete a nuestra comunidad para hacer preguntas, compartir tus flujos de trabajo y conectar con otros usuarios de n8n!.
 
 *   **Canal de Telegram:** https://t.me/n8nation
-*   **Grupo de Telegram:** https://t.me/n8nation_chat
+*   **Grupo de Telegram:** https://t.me/n8nation_hub
 *   **Reddit:** [https://reddit.com/r/n8nation_]
 
 **¿Quieres colaborar?** Visita nuestro [repositorio de la comunidad](community-repo/README.md) (pronto) para recursos y oportunidades de contribución bajo licencia MIT. Para oportunidades de negocio colaborativo en el ecosistema n8nation, consulta el [PROPOSAL.md](PROPUESTA.md) en el repositorio principal de [n8nation](https://github.com/MrKaizen7/n8nation). 

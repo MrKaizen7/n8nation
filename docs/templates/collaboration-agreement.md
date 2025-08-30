@@ -104,7 +104,7 @@ By joining n8nation, I agree to the **transparent points-based compensation syst
 
 #### Communication Channels
 - **Project Chat:** Dedicated channel for each project
-- **General Community:** @n8nation_chat Telegram group
+- **General Community:** @n8nation_hub Telegram group
 - **Announcements:** @n8nation Telegram channel
 - **App Platform:** n8nation React app (when available)
 
@@ -172,7 +172,7 @@ Welcome to the n8nation community! We're excited to have you as part of our coll
 ## Quick Reference
 
 ### Key Contacts
-- **Community Questions:** @n8nation_chat (Telegram)
+- **Community Questions:** @n8nation_hub (Telegram)
 - **Announcements:** @n8nation (Telegram)  
 - **Technical Issues:** GitHub Issues
 - **Payment Questions:** Direct message @MrKaizen7

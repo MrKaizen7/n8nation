@@ -99,7 +99,7 @@ extra:
       link: https://t.me/n8nation
       name: Canal Telegram
     - icon: fontawesome/brands/telegram
-      link: https://t.me/n8nation_chat
+      link: https://t.me/n8nation_hub
       name: Chat Telegram
     - icon: fontawesome/solid/envelope
       link: mailto:contact@n8nation.com
@@ -119,7 +119,7 @@ extra:
     project:
       version: "1.0.0"
       stage: "Beta"
-      community: "https://t.me/n8nation_chat"
+      community: "https://t.me/n8nation_hub"
       docs_repo: "https://github.com/MrKaizen7/n8n_local_docker_ngrok"
 
 # n8nation - CSS personalizado

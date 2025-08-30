@@ -18,7 +18,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ### Changed
 - README.md actualizado con requisitos claros
-- Links de Telegram actualizados a nombres específicos (@n8nation, @n8nation_chat)
+- Links de Telegram actualizados a nombres específicos (@n8nation, @n8nation_hub)
 - Script start-n8n.bat mejorado con enlaces de comunidad
 
 ### Fixed

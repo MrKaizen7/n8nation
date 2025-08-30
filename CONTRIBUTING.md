@@ -252,7 +252,7 @@ test: add unit tests for API integration
 
 ### Where to Ask Questions
 1. **Technical Issues:** GitHub Issues
-2. **General Questions:** @n8nation_chat (Telegram)
+2. **General Questions:** @n8nation_hub (Telegram)
 3. **Collaboration Opportunities:** Direct message @MrKaizen7
 4. **Community Events:** @n8nation (Telegram channel)
 
@@ -330,7 +330,7 @@ For complete details about our governance structure, voting procedures, and deci
 
 ### Ready to Contribute? ✅
 - [ ] Read and understand Code of Conduct
-- [ ] Join @n8nation_chat Telegram group  
+- [ ] Join @n8nation_hub Telegram group  
 - [ ] Introduce yourself in the community
 - [ ] Fork the repository
 - [ ] Pick your first contribution type

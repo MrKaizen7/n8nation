@@ -425,7 +425,7 @@ This project is licensed under the Sustainable Use License (SUL). See the [LICEN
 Join our community to ask questions, share your workflows, and connect with other n8n users!
 
 *   **Telegram Channel:** [https://t.me/n8nation]
-*   **Telegram Group:** [https://t.me/n8nation_chat]
+*   **Telegram Group:** [https://t.me/n8nation_hub]
 *   **Reddit:** [https://www.reddit.com/r/n8nation_]
 
 **Want to collaborate?** Visit our [community repository](community-repo/README.md) for resources and contribution opportunities under the MIT license. For collaborative business opportunities in the n8nation ecosystem, see the [PROPOSAL.md](PROPOSAL.md) in the main [n8nation](https://github.com/MrKaizen7/n8nation) repository.

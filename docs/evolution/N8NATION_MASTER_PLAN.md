@@ -53,7 +53,7 @@ echo ✅ All done. You can close this window or leave it open to monitor.
 echo.
 echo ➡️ Need help or want to connect with the community?
 echo ➡️ Join our Telegram Channel: https://t.me/n8nation
-echo ➡️ Join our Telegram Group: https://t.me/n8nation_chat
+echo ➡️ Join our Telegram Group: https://t.me/n8nation_hub
 echo ➡️ Check out the repository for more info: https://github.com/MrKaizen7/n8nation
 echo.
 pause
@@ -95,7 +95,7 @@ pause
 - Anuncios importantes
 - Contenido curado
 
-**Grupo (@n8nation_chat):**
+**Grupo (@n8nation_hub):**
 - Soporte técnico comunitario
 - Networking entre usuarios
 - Intercambio de workflows

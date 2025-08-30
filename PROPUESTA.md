@@ -109,7 +109,7 @@ Proyecto: $1,000 de ganancia | 1,250 puntos totales
 
 ### **Herramientas de Colaboración**
 - **GitHub:** Gestión de código y documentación técnica
-- **Telegram:** Comunicación inmediata y soporte comunitario (@n8nation, @n8nation_chat)
+- **Telegram:** Comunicación inmediata y soporte comunitario (@n8nation, @n8nation_hub)
 - **Sistema interno:** Asignación de tareas, tracking de tiempo, revisión de código
 
 ---
@@ -177,7 +177,7 @@ Proyecto: $1,000 de ganancia | 1,250 puntos totales
 ### **Si Eres Desarrollador/Automatizador**
 1. 🌟 **Star** este repositorio
 2. 🔍 **Revisa** workflows existentes y documentación técnica
-3. 💬 **Únete** al grupo de Telegram: [https://t.me/n8nation_chat](https://t.me/n8nation_chat)
+3. 💬 **Únete** al grupo de Telegram: [https://t.me/n8nation_hub](https://t.me/n8nation_hub)
 4. 🛠️ **Contribuye** con tu primer workflow o mejora
 
 ### **Si Eres Líder Técnico/Arquitecto**
@@ -209,7 +209,7 @@ Pero necesitamos actuar ahora, mientras la oportunidad está abierta.
 **Contacto directo:**  
 💬 Telegram: [@steventheortiz](https://t.me/steventheortiz)
 💬 Reddit [u/steventheortiz] (https://www.reddit.com/user/steventheortiz)
-💬 Telegram: [@n8nation_chat](https://t.me/n8nation_chat)
+💬 Telegram: [@n8nation_hub](https://t.me/n8nation_hub)
 💬 Reddit [r/n8nation_] (https://www.reddit.com/r/n8nation) 
 🔗 GitHub: [Repositorio Principal](https://github.com/MrKaizen7/n8nation)
 

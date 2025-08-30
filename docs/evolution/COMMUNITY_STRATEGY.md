@@ -57,7 +57,7 @@
 - Año 2: 2,000+ suscriptores
 - Engagement rate: >5%
 
-#### Grupo: @n8nation_chat  
+#### Grupo: @n8nation_hub  
 **Propósito:** Discusión interactiva y soporte mutuo
 
 **Estructura del grupo:**
