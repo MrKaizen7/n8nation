@@ -1,0 +1,3 @@
+[submodule "tools/Submodule-Sync-Utility"]
+	path = tools/Submodule-Sync-Utility
+	url = https://github.com/MrKaizen7/Submodule-Sync-Utility
