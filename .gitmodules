@@ -1,3 +1,6 @@
 [submodule "tools/Submodule-Sync-Utility"]
 	path = tools/Submodule-Sync-Utility
 	url = git@github.com:MrKaizen7/Submodule-Sync-Utility.git
+[submodule "tools/n8n_local_docker_ngrok"]
+	path = tools/n8n_local_docker_ngrok
+	url = git@github.com:MrKaizen7/n8n_local_docker_ngrok.git
